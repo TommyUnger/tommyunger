@@ -6,5 +6,5 @@ I enjoy designing and making things from analytics experiences to backend system
 - Very small business: https://campusbuilding.com (Microsoft and Amazon HQ maps)
 - Social(?) media: @<a href="https://twitter.com/tommyunger">tommyunger</a> | <a href="https://www.linkedin.com/in/tommyunger/">LinkedIn</a>
 - During the COVID times I've been biking and running the letters of the alphabet as well as numbers and ascii characters:<br />
-<a href="https://tommyseattle.com/bike-run-letters-numbers/"><img src="bike-and-run-letters-numbers.png" alt="the quick brown fox jumps over the lazy dog" width="80%" style="margin: auto;" /></a>
+<a href="https://tommyseattle.com/bike-run-letters-numbers/"><img src="https://github.com/TommyUnger/TommyUnger/bike-and-run-letters-numbers.png" alt="the quick brown fox jumps over the lazy dog" width="80%" style="margin: auto;" /></a>
 
